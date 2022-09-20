@@ -33,3 +33,7 @@ Chrome : https://sites.google.com/chromium.org/driver/
 # info.py
 Your instagram username and password is this file 
 main code read this value of info.py
+
+# Modules
+Just use the *selenium* module 
+``` pip instasll selenium ```
