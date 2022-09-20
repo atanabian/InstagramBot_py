@@ -28,3 +28,8 @@ FireFox : https://github.com/mozilla/geckodriver/releases
 Edge :	https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 
 Chrome : https://sites.google.com/chromium.org/driver/
+
+
+# info.py
+Your instagram username and password is this file 
+main code read this value of info.py
