@@ -18,7 +18,9 @@ Instagram Bot
 
 # Drivers
 You should put the desired driver next to the code file
+
 Download drivers : 
+
 Safari : https://webkit.org/blog/6900/webdriver-support-in-safari-10/
 
 FireFox : https://github.com/mozilla/geckodriver/releases
